@@ -20,3 +20,22 @@ nav {
   line-height: 100%;
   padding-top: 15px;
 }
+
+.collapse-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.youtube {
+  margin: 10px;
+  padding: 10px;
+}
+
+.player-image {
+  width: 200px;
+  height: auto;
+}
